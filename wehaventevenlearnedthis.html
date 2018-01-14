@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<title>Quizlist</title>
+
+<script>
+	function Words(spell, def, used) {
+		this.spell = spell;
+		this.def = def;
+		this.used = used;
+	}
+	
+	var WordList = [new Words("assure", "tell someone something positively or confidently to dispel any doubts they may have", false),
+				    new Words("impeccable", "without fault or error", false),
+		   		    new Words("stubborn", "tenaciously unwilling or marked by tenacious unwillingness to yield", false),
+				    new Words("forbid", "command against", false),
+				    new Words("chasm", "a deep opening in the earth's surface", false),
+				    new Words("advisable", "worthy of being recommended or suggested", false),
+				    new Words("perform", "get done ; carry out", false),
+				    new Words("intention", "an anticipated outcome that is intended or that guides your planned actions", false),
+				    new Words("glisten", "be shiny, as if wet", false),
+				    new Words("repose", "freedom from worry", false),
+				    new Words("mynopic", "unable to see distant object clearly", false),
+				    new Words("tether", "keep things tied together", false),
+				    new Words("reel", "a cylinder that can be wound with flexible material like film or fishing line", false),
+				    new Words("brash", "offensively bold", false),
+				    new Words("hedge", "living fence made of closely planted bushes", false),
+				    new Words("sufficient", "of a quantity that can fulfill a need or requirement but without being abundant", false),
+				    new Words("fragile", "easily broken or damaged or destroyed", false),
+				    new Words("fray", "wear away by rubbing", false),
+				    new Words("tweet", "a weak chirping sound as of a small bird", false),
+				    new Words("stride", "walk with long step", false)];
+	
+	var testWordList = [];
+	var timer;
+	
+	function showWord() {
+		var manyWord = document.getElementById("manyWord");
+		var defList = "";
+		var numWordIsSoImportant = 1; 
+		var i = Math.floor(Math.random() * WordList.length)
+		while (i < WordList.length && numWordIsSoImportant <= manyWord.value ) {
+			if (WordList[i].used != true) { 
+				defList +="<tr><td>" + WordList[i].def + "</td><td><div><input class='form-control' type='text' id='" + WordList[i].spell + "'/><span></span><div></td></tr>";
+				document.getElementById("defList").innerHTML = defList;
+				
+				WordList[i].used = true;
+				testWordList.push(i);
+				numWordIsSoImportant++;
+				i = Math.floor(Math.random() * WordList.length);
+			} else {
+				i = Math.floor(Math.random() * WordList.length);
+			}
+		}
+		document.getElementById("addbnt").innerHTML = "<button type='button' class='btn btn-primary btn-md btn-block' onclick='showWord()' disabled>start</button>";
+		document.getElementById("reOrcheck").innerHTML = "<button type='button'class='btn btn-primary' data-toggle='modal' data-target='#myModal' onclick='Empty()'>cheack the answer</button>"
+		debugger;
+		var TimeLim = document.getElementById("Timelim");
+		var d = new Date();
+		var countDown;
+		if (TimeLim.value == "off"){
+			var timer = setTimeout(check, 60 * 60 * 1000);
+			countDown = d.setMinutes(d.setMinutes() + 60).getTime();
+		} else {
+			var timer = setTimeout(check, TimeLim.value * 60 * 1000);
+			countDown = d.setMinutes(d.setMinutes() + TimeLim.value).getTime();
+		}
+		var x = setInterval(function(){
+			var now = new Date().getTime();
+			var distance = countDown - now;
+			
+			var minutes = Math.floorMath.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+			var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+			document.getElementById("reQeast").innerHTML = minutes + "m" + seconds + "s";
+		})
+	}
+	
+	function Empty() {
+		var emptyInput = 0;
+			for (var i = 0;i < testWordList.length; i++) {
+				var santans = WordList[testWordList[i]]
+				var input = document.getElementById(santans.spell);
+				if (input.value == "") {
+					emptyInput++;
+				}
+			}
