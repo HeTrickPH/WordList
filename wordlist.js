@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 2f584b396d09041c693425736a0537d391b040b0
 	function Words(spel, def, used, date, name) {
 		this.spel = spel;
 		this.def = def;
@@ -151,7 +148,6 @@
 				new Words("indomitable", "impossible to defeat or discourage", false, "10/7/2017", "Kyu"),
 					//today word
 				new Words("turbulent", "characterized bydisorder, not", false, "1/14/2018", "kyu"),
-<<<<<<< HEAD
 				new Words("cede", "give up(power or territoy)", false, "1/14/2018", "kyu"),
 				new Words("vulnerable", "characterized by disorder, not contri=olled, confusion", false, "1/14/2018", "kyu"),
 				new Words("emcompass", "surround and hold it/ cause to take palce", false, "1/14/2018", "kyu"),
@@ -166,22 +162,6 @@
 				new Words("disparity", "great difference", false, "1/14/2018", "kyu"),
 				new Words("sentimont", "an opinion/ feeling or emotion", false, "1/14/2018", "kyu"),
 				new Words("hyperbolic", "enlarged beyond truth", false, "1/14/2018", "kyu"),
-=======
-				new Words("cede", "", false, "1/14/2018", "kyu"),
-				new Words("vulnerable", "", false, "1/14/2018", "kyu"),
-				new Words("emcompass", "", false, "1/14/2018", "kyu"),
-				new Words("wary", "", false, "1/14/2018", "kyu"),
-				new Words("allegiance", "", false, "1/14/2018", "kyu"),
-				new Words("diplomate", "", false, "1/14/2018", "kyu"),
-				new Words("embroil", "", false, "1/14/2018", "kyu"),
-				new Words("disastrous", "", false, "1/14/2018", "kyu"),
-				new Words("notorious", "", false, "1/14/2018", "kyu"),
-				new Words("sheriff", "", false, "1/14/2018", "kyu"),
-				new Words("whip", "", false, "1/14/2018", "kyu"),
-				new Words("disparity", "", false, "1/14/2018", "kyu"),
-				new Words("sentimont", "", false, "1/14/2018", "kyu"),
-				new Words("hyperbolic", "", false, "1/14/2018", "kyu"),
->>>>>>> 2f584b396d09041c693425736a0537d391b040b0
 				new Words("smudge", "blur it in a messy way", false, "1/14/2018", "hoon"),
 				new Words("lopside", "habing one side low or small or lighter than the other", false, "1/14/2018", "hoon"),
 				new Words("dreary", "lacking in liveliness or surprise", false, "1/14/2018", "hoon"),
