@@ -1,0 +1,45 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<title>practice</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="practice.css">
+
+<script type="text/javascript" src="practice.js"></script>
+</head>
+
+<body>
+<nav class="navbar navbar-inverse">
+	<div class="container-fluid">
+		<div class="collapse navbar-collapse" id="myNavbar">
+			<ul class="nav navbar-nav">
+				<li><a href="20savefile.html">List</a></li>
+				<li><a href="20 copy.html">Quiz</a></li>
+				<li class="active"><a href="practice.html">Practice</a></li>
+			</ul>
+		</div>
+	</div>
+</nav>
+<legend>
+	<h1>Practice</h1>
+	<div id="progress-bar">
+		<div class="progress">
+			<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:10%"></div>
+		</div>
+	</div>
+</legend>
+<button onclick="showCard()">click</button>
+<div id="Qbox">
+	<div id="main" class="choises col-sm-12"></div>
+	<div id="choise1" class="choises col-sm-6" onClick="answerCheck(1)"></div>
+	<div id="choise2" class="choises col-sm-6" onClick="answerCheck(2)"></div>
+	<div id="choise3" class="choises col-sm-6" onClick="answerCheck(3)"></div>
+	<div id="choise4" class="choises col-sm-6" onClick="answerCheck(4)"></div>
+</div>
+
+</body>
+</html>
+
+
