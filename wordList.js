@@ -161,4 +161,19 @@
 				new Words("disparity", "", false, "1/14/2018", "kyu"),
 				new Words("sentimont", "", false, "1/14/2018", "kyu"),
 				new Words("hyperbolic", "", false, "1/14/2018", "kyu"),
-			   ];
+				new Words("smudge", "blur it in a messy way", false, "1/14/2018", "hoon"),
+				new Words("lopside", "habing one side low or small or lighter than the other", false, "1/14/2018", "hoon"),
+				new Words("dreary", "lacking in liveliness or surprise", false, "1/14/2018", "hoon"),
+				new Words("adopted", "acquired as your own by free choise", false, "1/14/2018", "hoon"),
+				new Words("stripe", "a narrow marking of different color or texture", false, "1/14/2018", "hoon"),
+				new Words("court", "room where justice is administered", false, "1/14/2018", "hoon"),
+				new Words("suburb", "residential district located or the outskirts of city", false, "1/14/2018", "hoon"),
+				new Words("seem", "appear", false, "1/14/2018", "hoon"),
+				new Words("droplet", "a tiny drop", false, "1/14/2018", "hoon"),
+				new Words("cigarette", "a small tube of paper that's filled with tobacco", false, "1/14/2018", "hoon"),
+				new Words("inhale", "to breathe", false, "1/14/2018", "hoon"),
+				new Words("emerge", "comeout into view", false, "1/14/2018", "hoon"),
+				new Words("acquire", "7to get or come to own something", false, "1/14/2018", "hoon"),
+				new Words("margin", "amount beyond the minimum necessory; edge", false, "1/14/2018", "hoon"),
+				new Words("council", "group of people that gather for the purpose of giving adivice of making decision", false, "1/14/2018", "hoon")
+			   ];	
