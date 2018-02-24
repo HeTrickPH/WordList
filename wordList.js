@@ -1,6 +1,6 @@
 
-	function Words(spel, def, used, date, name) {
-		this.spel = spel;
+	function Words(spell, def, used, date, name) {
+		this.spell = spell;
 		this.def = def;
 		this.used = used;
 		this.date = wordDate(date);
@@ -12,7 +12,7 @@
 		return date.getFullYear() + "/" + ("0" +(date.getMonth()+1)).slice(-2) + "/" + date.getDate()  ;
 	}
 
-	var WordList = [new Words("assure", "tell someone something positively or confidently to dispel any doubts they may have.", false, "08/24/2017", "Kyu"),
+	var WordList = [new Words("assure", "tell someone something positively or confidently to dispell any doubts they may have.", false, "08/24/2017", "Kyu"),
 				new Words("impeccable", "without fault or error", false, "08/24/2017", "Kyu"),
 				new Words("stubborn", "tenaciously unwilling or marked by tenacious unwillingness to yield", false, "08/24/2017", "Kyu"),
 				new Words("forbid", "command against", false, "08/24/2017", "Kyu"),
@@ -72,7 +72,7 @@
 			    new Words("accompany","go somewhere with (someone) as a companion", false, "09/16/2017", "hoon"),
 			    new Words("precision","the quality, condition, or fact of being exact and accurate.", false, "09/16/2017", "hoon"),
 			    new Words("encumbrance","a burden or impediment.", false, "09/16/2017", "hoon"),
-			    new Words("insincerity","the quality of not expressing genuine feelings.", false, "09/16/2017"),
+			    new Words("insincerity","the quality of not expressing genuine feelings.", false, "09/16/2017", "hoon"),
 			    new Words("opportunity"," set of circumstances that makes it possible to do something.", false, "09/16/2017", "hoon"),
 			    new Words("persistent","bstinately in a course of action in spite of difficulty or opposition.", false, "09/16/2017", "hoon"),
 			    new Words("courageous","not deterred by danger or pain; brave.", false, "09/16/2017", "hoon"),
@@ -152,21 +152,21 @@
 				new Words("pave", "to lay or cover with material", false, "10/7/2017", "Kyu"),
 				new Words("indomitable", "impossible to defeat or discourage", false, "10/7/2017", "Kyu"),
 					//today word
-				new Words("turbulent", "characterized bydisorder, not", false, "01/14/2018", "kyu"),
-				new Words("cede", "give up(power or territoy)", false, "01/14/2018", "kyu"),
-				new Words("vulnerable", "characterized by disorder, not contri=olled, confusion", false, "01/14/2018", "kyu"),
-				new Words("emcompass", "surround and hold it/ cause to take palce", false, "01/14/2018", "kyu"),
-				new Words("wary", "feeling or showing coution about possible dangers", false, "01/14/2018", "kyu"),
-				new Words("allegiance", "the loyalt that a person owe to other person or group", false, "01/14/2018", "kyu"),
-				new Words("diplomate", "an offical who reprsent there's country to other nation", false, "01/14/2018", "kyu"),
-				new Words("embroil", "involve deeply in an situation or argument", false, "01/14/2018", "kyu"),
-				new Words("disastrous", "causing great damage", false, "01/14/2018", "kyu"),
-				new Words("notorious", "famous or well konwn", false, "01/14/2018", "kyu"),
-				new Words("sheriff", "(in the US)top-ranking officer in country police force", false, "01/14/2018", "kyu"),
-				new Words("whip", "a strip of leather used for flogging or beating", false, "01/14/2018", "kyu"),
-				new Words("disparity", "great difference", false, "01/14/2018", "kyu"),
-				new Words("sentimont", "an opinion/ feeling or emotion", false, "01/14/2018", "kyu"),
-				new Words("hyperbolic", "enlarged beyond truth", false, "01/14/2018", "kyu"),
+				new Words("turbulent", "characterized bydisorder, not", false, "01/14/2018", "Kyu"),
+				new Words("cede", "give up(power or territoy)", false, "01/14/2018", "Kyu"),
+				new Words("vulnerable", "characterized by disorder, not contri=olled, confusion", false, "01/14/2018", "Kyu"),
+				new Words("emcompass", "surround and hold it/ cause to take palce", false, "01/14/2018", "Kyu"),
+				new Words("wary", "feeling or showing coution about possible dangers", false, "01/14/2018", "Kyu"),
+				new Words("allegiance", "the loyalt that a person owe to other person or group", false, "01/14/2018", "Kyu"),
+				new Words("diplomate", "an offical who reprsent there's country to other nation", false, "01/14/2018", "Kyu"),
+				new Words("embroil", "involve deeply in an situation or argument", false, "01/14/2018", "Kyu"),
+				new Words("disastrous", "causing great damage", false, "01/14/2018", "Kyu"),
+				new Words("notorious", "famous or well konwn", false, "01/14/2018", "Kyu"),
+				new Words("sheriff", "(in the US)top-ranking officer in country police force", false, "01/14/2018", "Kyu"),
+				new Words("whip", "a strip of leather used for flogging or beating", false, "01/14/2018", "Kyu"),
+				new Words("disparity", "great difference", false, "01/14/2018", "Kyu"),
+				new Words("sentimont", "an opinion/ feeling or emotion", false, "01/14/2018", "Kyu"),
+				new Words("hyperbolic", "enlarged beyond truth", false, "01/14/2018", "Kyu"),
 				new Words("smudge", "blur it in a messy way", false, "01/14/2018", "hoon"),
 				new Words("lopside", "habing one side low or small or lighter than the other", false, "01/14/2018", "hoon"),
 				new Words("dreary", "lacking in liveliness or surprise", false, "01/14/2018", "hoon"),
@@ -179,7 +179,36 @@
 				new Words("cigarette", "a small tube of paper that's filled with tobacco", false, "01/14/2018", "hoon"),
 				new Words("inhale", "to breathe", false, "01/14/2018", "hoon"),
 				new Words("emerge", "comeout into view", false, "01/14/2018", "hoon"),
-				new Words("acquire", "7to get or come to own something", false, "01/14/2018", "hoon"),
+				new Words("acquire", "to get or come to own something", false, "01/14/2018", "hoon"),
 				new Words("margin", "amount beyond the minimum necessory; edge", false, "01/14/2018", "hoon"),
-				new Words("council", "group of people that gather for the purpose of giving adivice of making decision", false, "01/14/2018", "hoon")
+				new Words("council", "group of people that gather for the purpose of giving adivice of making decision", false, "01/14/2018", "hoon"),
+				new Words("cache", "to store something in hide for future use", false, "02/17/2018", "Kyu"),
+				new Words("bead", "marble", false, "02/17/2018", "Kyu"),
+				new Words("renounce", "to give up(claim, right, cause)", false, "02/17/2018", "Kyu"),
+				new Words("occation", "a particular time of an event", false, "02/17/2018", "Kyu"),
+				new Words("abjure", "to renounce(belief, claim, cause)", false, "02/17/2018", "Kyu"),
+				new Words("incognito", "having one's true identity concealed", false, "02/17/2018", "Kyu"),
+				new Words("whirl", "to spin rapidly", false, "02/17/2018", "Kyu"),
+				new Words("taxonomy", "the branch of science concerned with classification", false, "02/17/2018", "Kyu"),
+				new Words("vortex", "mass of whiring fluid or air", false, "02/17/2018", "Kyu"),
+				new Words("conceal", "to hide", false, "02/17/2018", "Kyu"),
+				new Words("mast", "tall pole to hang sail", false, "02/17/2018", "Kyu"),
+				new Words("frock", "a woman\'s or girl\'s dress", false, "02/17/2018", "Kyu"),
+				new Words("roam", "to move around in wide area", false, "02/17/2018", "Kyu"),
+				new Words("swarm", "a group of insects, espacially flying ones", false, "02/17/2018", "Kyu"),
+				new Words("enervate", "lacking in energy or vitality", false, "02/17/2018", "Kyu"),
+				new Words("belie", "to show to be false", false, "02/17/2018", "hoon"),
+				new Words("diffident", "lacking or marked by a lack of self-confidence", false, "02/17/2018", "hoon"),
+				new Words("tatter", "ragged or scrap of something", false, "02/17/2018", "hoon"),
+				new Words("abstemious", "eatting and drinking in moderation", false, "02/17/2018", "hoon"),
+				new Words("servant", "aperson working in serivice of anther", false, "02/17/2018", "hoon"),
+				new Words("posse", "police force", false, "02/17/2018", "hoon"),
+				new Words("scowl", "make angry face", false, "02/17/2018", "hoon"),
+				new Words("proper", "marked by rightness or suitability", false, "02/17/2018", "hoon"),
+				new Words("sage", "having a lot experience; wise man", false, "02/17/2018", "hoon"),
+				new Words("soggy", "Soft and watery", false, "02/17/2018", "hoon"),
+				new Words("dormant", "inactive, but can be active again", false, "02/17/2018", "hoon"),
+				new Words("ammunition", "ammo,arms;imformation that can be need to attact ", false, "02/17/2018", "hoon"),
+				new Words("insecure", "lacking security or safety", false, "02/17/2018", "hoon")
 			   ];	
+

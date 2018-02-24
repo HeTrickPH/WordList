@@ -11,7 +11,6 @@
 <script src="wordList.js"></script>
 <script src="wordList_copy.js"></script>
 
-
 <style>
 	#overlay {
 		position: fixed;
@@ -103,27 +102,18 @@
 			</select>
 		</div>
 		<div class="form-group col-sm-1">
-			<label for="inlineFormCustomSelect">Chose the date</label>
+			<label for="inlineFormCustomSelect">Filter</label>
 		</div>
 		<div class="form-group col-sm-2">
-			<select class="form-control form-control-sm" id="writenDate">
+			<select class="form-control form-control-sm" id="writenDate" onClick="makeOption()">
 				<option>all word</option>
-				<option>in 24our</option>
-				<option>last weak</option>
-				<option>last Month</option>
-				<option>last three Month</option>
-				<option>last half year</option>
+        		<option>Date</option>
+				<option>Author</option>				
 			</select>
 		</div>
-		<div class="form-group col-sm-1">
-			<label for="inlineFormCustomSelect">Preference</label>
-		</div>
 		<div class="form-group col-sm-2">
-			<select class="form-control form-control-sm">
-				<option></option>
-				<option></option>
-				<option></option>
-				<option></option>
+			<select class="form-control form-control-sm" id="FilterOptions">
+				<option>--</option>
 			</select>
 		</div>
 	</div>
@@ -177,6 +167,5 @@
 
 		</div>
     </div>
-  
 </body>
 </html>
