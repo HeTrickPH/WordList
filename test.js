@@ -1,4 +1,6 @@
 // JavaScript Document
+(function() {angular.module('quizApp', []).controller('quizCtrlr', function myCtlr($scope) {
+	
 	var QuizList = [];
 	var answerList = [];
 	var timer;
@@ -34,35 +36,19 @@
 		}
 	}
 	
-	window.onload = function() {
-		debugger;
-		var users = "<option>all users</option>";
-		users += "<option>" + WordList[0].name + "</option>";
-		var n = WordList.filter(x => { return x.name != WordList[0].name; } );
-		
-		for (var i = 0; i < WordList.length; i++) {
-			if (n[0].name != undefined) {
-				users += "<option>" + n[0].name + "</option>";
-				n = n.filter(x => { return x.name != n[0].name; });
-			}
-			
-			if (n.length == 0) {
-				document.getElementById("users").innerHTML = users;
-				break;
-			}
-		}
-	};
-	
- 	function showWord() {
+	$scope.defList = [];
+ 	$scope.showWord = function() {
 		makeQuizList();
 		var manyWord = document.getElementById("manyWord");
-		var defList = "";
+		
 		var numWordIsSoImportant = 1; 
 		var i = Math.floor(Math.random() * QuizList.length);
 		while (i < QuizList.length && numWordIsSoImportant <= manyWord.value) {
 			if (QuizList[i].used != true) { 
 				debugger;
-				defList +="<tr><td>" + QuizList[i].def + "</td><td><div><input class='form-control' type='text' id='" + QuizList[i].spell + "'/><span></span><div></td></tr>";
+				var txt = {'def' : QuizList[i].def, 'spell' : QuizList[i].spell };
+				$scope.defList.push(txt); 
+				//+="<tr><td>" + QuizList[i].def + "</td><td><div><input class='form-control' type='text' id='" + QuizList[i].spell + "'/><span></span><div></td></tr>";
 				numWordIsSoImportant++;
 				QuizList[i].used = true;
 				answerList.push(i);
@@ -155,9 +141,10 @@
 	}	
 
 	var optionListPro = [];
-	var filteredArr;
+	var filteredArr = [];
 
 	function selectDates(kindOfFilter) {
+		debugger;
 		var i = 0;
 		if (kindOfFilter == "Date") {
 			for(i=0; i<WordList.length; i++){
@@ -170,30 +157,29 @@
 		}
 		debugger;
 		filteredArr = optionListPro.filter(function(item,index){
-				if(optionListPro.indexOf(item)==index)
-				return item;
-		});	
+				if(optionListPro.indexOf(item)==index){
+					return item;
+				}
+			});
 		optionListPro = [];
 	}
-
-	function makeOption(){
-		var optionList = "";
+	
+	$scope.optionList = [];
+	$scope.makeOption = function(){		
+		
 		if (document.getElementById("writenDate").value == "Date") {
-			selectDates("Date");
-			for(var i=0; i< filteredArr.length; i++){
-				optionList += "<option>" + filteredArr[i] + "</option>";
-			}
-			document.getElementById("FilterOptions").innerHTML = optionList;
-		} else if (document.getElementById("writenDate").value == "Author") {
-			debugger;
-			selectDates("Author");
-			for(var i=0; i< filteredArr.length; i++){
-				
-				optionList += "<option>" + filteredArr[i] + "</option>";
-			}
 			
+			selectDates("Date");
+			
+		} else if (document.getElementById("writenDate").value == "Author") {	
+			
+			selectDates("Author");
+		
 		}
-		document.getElementById("FilterOptions").innerHTML = optionList;
+		for(var i=0; i< filteredArr.length; i++){		
+			$scope.optionList.push(filteredArr[i]);
+		}
+		//$scope.optionList = [ 'Kyu', 'Hoon' ];
 	}
 	
 	//var dateList =[];
@@ -204,4 +190,6 @@
     // return dateList;	
     //}
     //makeDateList();
+});
+}) ();
 	

@@ -72,7 +72,7 @@
 			}
 		}
 		document.getElementById("defList").innerHTML = defList;
-		document.getElementById("reOrcheck").innerHTML = "<button type='button'class='btn btn-primary btn-md btn-block' data-toggle='modal' data-target='#myModal' onclick='Empty()'>check the answer</button>";
+		document.getElementById("reOrcheck").innerHTML = "<button type='button'class='btn btn-primary' data-toggle='modal' data-target='#myModal' onclick='Empty()'>check the answer</button>";
 		
 		for (i = 0;i < QuizList.length; i++) {
 			if (QuizList[i].used == true) {
@@ -138,7 +138,7 @@
 		overlayOn();
 		document.getElementById("defList").innerHTML = defList;
 
-		document.getElementById("reOrcheck").innerHTML = "<button class='btn btn-primary btn-md btn-block' id='reOrcheck' onclick='reStart()'>REtest?</button>";	
+		document.getElementById("reOrcheck").innerHTML = "<button class='btn btn-primary' id='reOrcheck' onclick='reStart()'>REtest?</button>";	
 	}
 	
 	
@@ -180,18 +180,13 @@
 		var optionList = "";
 		if (document.getElementById("writenDate").value == "Date") {
 			selectDates("Date");
-			for(var i=0; i< filteredArr.length; i++){
-				optionList += "<option>" + filteredArr[i] + "</option>";
-			}
-			document.getElementById("FilterOptions").innerHTML = optionList;
 		} else if (document.getElementById("writenDate").value == "Author") {
 			debugger;
 			selectDates("Author");
-			for(var i=0; i< filteredArr.length; i++){
-				
-				optionList += "<option>" + filteredArr[i] + "</option>";
-			}
-			
+		}
+		
+		for(var i=0; i< filteredArr.length; i++){	
+			optionList += "<option>" + filteredArr[i] + "</option>";
 		}
 		document.getElementById("FilterOptions").innerHTML = optionList;
 	}

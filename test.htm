@@ -1,0 +1,182 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Bootstrap -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+
+<!-- loodash -->
+<script src="https://rawgit.com/lodash/lodash/3.0.1/lodash.min.js"></script>
+
+<!--AngularJS-->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+
+<title>20 word test</title>
+
+<script src="wordList.js"></script>
+<script src="test.js"></script>
+
+<style>
+	#overlay {
+		position: fixed;
+		display: none;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background-color: rgba(0,0,0,0.5);
+		z-index: 2;
+		cursor: pointer;
+	}
+	#box {
+		background-color: white;
+		width: 450px;
+		height: 425px;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		color: white;
+		transform: translate(-50%,-50%);
+		-ms-transform: translate(-50%,-50%);
+		border: 2px solid black;
+		border-radius: 10px;
+	}
+	#score {
+		margin-top: 75px;
+		margin-left: 100px;
+		text-align: center;
+		width: 250px;
+		height: 200px;
+		font-size: 100px;
+		color: black;
+	}
+	#massage {
+		font-size: 24px;
+		color: black;
+	}	
+	#button {
+		margin-right: 3%;
+		margin-top: 15%;
+		float: right;
+	}
+</style>
+
+</head>
+
+<body>
+<div ng-app="quizApp" ng-controller="quizCtrlr">
+	<!--navigation var-->
+	<nav class="navbar navbar-inverse">
+		<div class="container-fluid">
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<ul class="nav navbar-nav">
+					<li><a href="20savefile.html">List</a></li>
+					<li class="active"><a href="20 coqy.html">Quiz</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	
+	<!-- -->
+	<h1>Quiz</h1>
+	<legend>
+		<h4>Type answer in blank</h4>
+	</legend>
+	<div class="form-inline" id="reQeast">
+		<div class="form-group col-sm-1">
+			<label for="inlineFormCustomSelect">Time</label>
+		</div>
+		<div class="form-group col-sm-2">
+			<select class="form-control form-control-sm" id="Timelim">
+				<option>off</option>
+				<option>1</option>
+				<option>3</option>
+				<option>5</option>
+			</select>
+		</div>
+		<div class="form-group col-sm-1">
+			<label for="inlineFormCustomSelect">Numder of word</label>
+		</div>
+		<div class="form-group col-sm-2">
+			<select class="form-control form-control-sm" id="manyWord">
+				<option>5</option>
+				<option>10</option>
+				<option>15</option>
+				<option>20</option>
+			</select>
+		</div>
+		<div class="form-group col-sm-1">
+			<label for="inlineFormCustomSelect">Filter</label>
+		</div>
+		<div class="form-group col-sm-2">
+			<select class="form-control form-control-sm" id="writenDate" ng-click="makeOption()">
+				<option>all word</option>
+        		<option>Date</option>
+				<option>Author</option>				
+			</select>
+		</div>
+		<div class="form-group col-sm-2">
+			<select class="form-control form-control-sm" id="FilterOptions">
+				<option ng-repeat="x in optionList">{{x}}</option>
+			</select>
+		</div>
+	</div>
+	<div class="col-sm-12" id="addbnt">
+		<button type="button" class="btn btn-primary btn-md btn-block" id="startBtn" ng-click="showWord()">start</button>
+		<div id="reOrcheck"></div>
+	</div>
+	
+	<!--table-->
+	<div class="container-fluid">
+		<table class="table table-bordered">
+			<thead>
+				<tr style="background-color: #6666ff">
+					<th class="col-sm-9">DEF</th>
+					<th class="col-sm-3">WORD</th>
+				</tr>
+			</thead>
+			<tbody id="defList" ng-repeat="x in defList">
+				<td>{{x.def}}</td>
+				<td>{{x.spell}}</td>
+			</tbody>
+		</table>
+	</div>
+	
+	<div id="overlay">
+		<div id="box">
+			<div id="score"></div>
+			<div id="massage"></div>
+			<button class="btn btn-primary" id="button" onClick="overlayOff()">Go back</button>
+		</div>
+	</div>
+	
+	
+	<div class="modal fade" id="myModal" role="dialog">
+		<div class="modal-dialog">
+
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Do you want check your work?</h4>
+				</div>
+				<div class="modal-body">
+					<p id="modalBody"></p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-primary" data-dismiss="modal" onClick="check()">Yes, I want.</button>
+					<button type="button" class="btn btn-primary" data-dismiss="modal">No, not now.</button>
+				</div>
+			</div>
+
+		</div>
+    </div>
+</div>
+</body>
+</html>
