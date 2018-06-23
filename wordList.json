@@ -1,0 +1,1926 @@
+[{
+"word" : "impeccable",
+"def" : "without fault or error",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "stubborn",
+"def" : "tenaciously unwilling or marked by tenacious unwillingness to yield",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "forbid",
+"def" : "command against",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "chasm",
+"def" : "a deep opening in the earth's surface",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "advisable",
+"def" : "worthy of being recommended or suggested",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "perform",
+"def" : "get done ; carry out",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "intention",
+"def" : "an anticipated outcome that is intended or that guides your planned actions",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "glisten",
+"def" : "be shiny, as if wet",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "repose",
+"def" : "freedom from worry",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "mynopic",
+"def" : "unable to see distant object clearly",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "tether",
+"def" : "keep things tied together",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "reel",
+"def" : " a cylinder that can be wound with flexible material like film or fishing line",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "brash",
+"def" : "offensively bold",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "hedge",
+"def" : "living fence made of closely planted bushes",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "sufficient",
+"def" : "of a quantity that can fulfill a need or requirement but without being abundant",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "fragile",
+"def" : "easily broken or damaged or destroyed",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "fray",
+"def" : "wear away by rubbing",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "tweet",
+"def" : "a weak chirping sound as of a small bird",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "Kyu"
+},
+{
+"word" : "stride",
+"def" : "walk with long step",
+"used" : false,
+"date" : "2017/08/24",
+"name" : "hoon"
+},
+{
+"word" : "congruent",
+"def" : "identical in form",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "polygon",
+"def" : "a figure that lies in a plane and is form by 3 or more segment",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "convex",
+"def" : "having an outline or surface curved like the exterior of a circle or sphere.",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "concave",
+"def" : "having an outline or surgace that curves inward like the interior of a circle or sphere",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "equiangular",
+"def" : "having equal angle",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "postulate",
+"def" : "suggest or assumed the wxistence, fact, or truth",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "sincere",
+"def" : "open and genuine",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "enthusiasm",
+"def" : "a feeling of exitement",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "sacrifice",
+"def" : "the act of killing in order to propitiate a deity",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "accord",
+"def" : "aoncurrence of oponion",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "inspire",
+"def" : "serve as the inciting cause of",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "purpose",
+"def" : "what something is used for",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "pleasure",
+"def" : "something or someone that provides a source of happiness",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "desire",
+"def" : "the feeling that accompanies an unsatisfied state",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "destruction",
+"def" : "an event (or the result of an event) that completely destroys something",
+"used" : false,
+"date" : "2017/09/3",
+"name" : "hoon"
+},
+{
+"word" : "sensibility",
+"def" : "the ability to appreciate and respond to complex emotional",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "hoon"
+},
+{
+"word" : "concern",
+"def" : "worry/a matter of interest or importance to someone.",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "hoon"
+},
+{
+"word" : "progressive",
+"def" : "proceeding step by step",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "hoon"
+},
+{
+"word" : "distribute",
+"def" : "deal out",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "hoon"
+},
+{
+"word" : "command",
+"def" : "authoritative order",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "hoon"
+},
+{
+"word" : "exalt",
+"def" : "think or speak very highly of",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "hoon"
+},
+{
+"word" : "delay",
+"def" : "period of time by which something is late or postponed.",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "hoon"
+},
+{
+"word" : "chin",
+"def" : "lower jaw",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "hoon"
+},
+{
+"word" : "regret",
+"def" : "a feeling of sadness or disappointment over something that has happened",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "hoon"
+},
+{
+"word" : "presence",
+"def" : "the state or fact of existing, occurring",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "Kyu"
+},
+{
+"word" : "consist",
+"def" : "made up of",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "Kyu"
+},
+{
+"word" : "assort",
+"def" : "become distributed among cells or progeny",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "Kyu"
+},
+{
+"word" : "substantial",
+"def" : "concerning the essentials of something",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "Kyu"
+},
+{
+"word" : "convention",
+"def" : "an agreement between countries covering particular matters",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "Kyu"
+},
+{
+"word" : "fortitude",
+"def" : "courage in pain or adversity.",
+"used" : false,
+"date" : "2017/09/10",
+"name" : "Kyu"
+},
+{
+"word" : "occupation",
+"def" : "a job or profession.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "influence",
+"def" : "the capacity to have an effect on the character, development, or behavior of someone",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "humblest",
+"def" : "having or showing a modest or low estimate",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "instrument",
+"def" : "a tool or implement, especially one for delicate or scientific work.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "astonished",
+"def" : "greatly surprised or impressed; amazed.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "impregnable",
+"def" : "unable to be captured or broken into.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "conscience",
+"def" : "inner feeling or voice viewed as acting as a guide to the rightnes",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "accompany",
+"def" : "go somewhere with (someone) as a companion",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "precision",
+"def" : "the quality, condition, or fact of being exact and accurate.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "encumbrance",
+"def" : "a burden or impediment.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "insincerity",
+"def" : "the quality of not expressing genuine feelings.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "opportunity",
+"def" : " set of circumstances that makes it possible to do something.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "persistent",
+"def" : "bstinately in a course of action in spite of difficulty or opposition.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "courageous",
+"def" : "not deterred by danger or pain; brave.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "stendiness",
+"def" : "a general direction in which something is developing or changing.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "hoon"
+},
+{
+"word" : "interpret",
+"def" : "explain the meaning of (information, words, or actions).",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "invigorate",
+"def" : "give strength or energy to.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "dispute",
+"def" : "a disagreement, argument, or debate.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "wrangle",
+"def" : "a dispute or argument, typically one that is long and complicated.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "antiquated",
+"def" : "old-fashioned or outdated.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "brim",
+"def" : "the projecting edge around the bottom of a hat.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "radiate",
+"def" : "emit (energy, especially light or heat) in the form of rays or waves.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "asset",
+"def" : "a useful or valuable thing, person, or quality.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "unassailable",
+"def" : "unable to be attacked, questioned, or defeated.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "besmirch",
+"def" : "damage the reputation of (someone or something) in the opinion of others.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "reputation",
+"def" : "the beliefs or opinions that are generally held about someone or something.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "generous",
+"def" : "(of a person) showing a readiness to give more of something, as money or time, than is strictly necessary or expected.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "vitality",
+"def" : "the state of being strong and active; energy.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "blunder",
+"def" : "a stupid or careless mistake.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "rut",
+"def" : "a long deep track made by the repeated passage of the wheels of vehicles.",
+"used" : false,
+"date" : "2017/09/16",
+"name" : "Kyu"
+},
+{
+"word" : "conclusion",
+"def" : "the end or finish of an event or process",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "claim",
+"def" : "a demand or request for something considered one's due",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "appropriate",
+"def" : "suitable",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "insufficient",
+"def" : "not enough",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "proride",
+"def" : "pride",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "proper",
+"def" : "truly what something is said or regarded to be",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "rebut",
+"def" : "claim or prove that is false",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "honor",
+"def" : "high respect",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "among",
+"def" : "surrounded by",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "sum",
+"def" : "the total amount resulting from the addition of two or more",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "faithful",
+"def" : "loyal, constant, and steadfast.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "squarely",
+"def" : "directly, without deviating to one side.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "indomitable",
+"def" : "mpossible to subdue or defeat.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "principles",
+"def" : "a fundamental truth or proposition that serves as the foundation ",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "hoon"
+},
+{
+"word" : "sake",
+"def" : "for the purpose of; in the interest of; in order to achieve or preserve.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "derive",
+"def" : "obtain something from (a specified source).",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "hitch",
+"def" : "move (something) into a different position with a jerk.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "marvelous",
+"def" : "causing great wonder; extraordinary.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "decalogue",
+"def" : "the Ten Commandments.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "wagon",
+"def" : "a vehicle used for transporting goods or another specified purpose.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "exalted",
+"def" : "(of a person or their rank or status) placed at a high or powerful level; held in high regard.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "clench",
+"def" : "(with reference to the fingers or hand) close into a tight ball, especially when feeling extreme anger.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "regret",
+"def" : "a feeling of sadness, repentance, or disappointment over something that has happened or been done.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "harness",
+"def" : "a set of straps and fittings by which a horse or other draft animal is fastened to a cart, plow, etc., and is controlled by its driver.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "monied",
+"def" : "having much money; affluent.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "comparison",
+"def" : "the act or instance of comparing.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "incident",
+"def" : "an event or occurrence.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "monument",
+"def" : "a statue, building, or other structure erected to commemorate a famous or notable person or event.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "tribute",
+"def" : "an act, statement, or gift that is intended to show gratitude, respect, or admiration.",
+"used" : false,
+"date" : "2017/09/22",
+"name" : "Kyu"
+},
+{
+"word" : "stagnate",
+"def" : "stand still",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "dare",
+"def" : "a challenge to do something dangerous or foolhardy",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "initiate",
+"def" : "set in motion, start an event or prepare the way for",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "blunder",
+"def" : "an embarrassing mistake",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "vacillate",
+"def" : "be undecided about something; waver between conflicting positions or courses of action",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "flabby",
+"def" : "out of condition; not strong or robust; incapable of exertion or endurance",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "latent",
+"def" : "potentially existing but not presently evident or realized",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "bereft",
+"def" : "sorrowful through loss or deprivation",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "bolster",
+"def" : "support and strengthen",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "brow",
+"def" : "the part of the face above the eyes",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "abhor",
+"def" : "find repugnant",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "gratification",
+"def" : "the act or an instance of satisfying",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "prompt",
+"def" : "according to schedule or without delay; on time",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "scold",
+"def" : "censure severely or angrily",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "regretful",
+"def" : "feeling or expressing regret or sorrow or a sense of loss over something done or undone",
+"used" : false,
+"date" : "2017/09/30",
+"name" : "Kyu"
+},
+{
+"word" : "cultivate",
+"def" : "to prepare and work on(land) in order to raise crops",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "regret",
+"def" : "to feel sorrow for(an act, fault etc.)",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "impregnable",
+"def" : "strong enough to resist or withstand attack",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "cue",
+"def" : "anything said or done",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "constant",
+"def" : "not changing, regular, uniform",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "scalp",
+"def" : "skin covering the head",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "hesitate",
+"def" : "to be willing to do something",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "revel",
+"def" : "to show great joy",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "cow",
+"def" : "to make(someone) too afraid to do something",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "harbor",
+"def" : "a place of safety",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "idle",
+"def" : "not working, active, or being used",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "fraud",
+"def" : "the crime of using dishonest method to take something valuable from another person",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "counterfeit",
+"def" : "made to look like an exact copy of something in order to trick people",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "pave",
+"def" : "to lay or cover with material",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "indomitable",
+"def" : "impossible to defeat or discourage",
+"used" : false,
+"date" : "2017/10/7",
+"name" : "Kyu"
+},
+{
+"word" : "turbulent",
+"def" : "characterized bydisorder, not",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "cede",
+"def" : "give up(power or territoy)",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "vulnerable",
+"def" : "characterized by disorder, not contri=olled, confusion",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "emcompass",
+"def" : "surround and hold it/ cause to take palce",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "wary",
+"def" : "feeling or showing coution about possible dangers",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "allegiance",
+"def" : "the loyalt that a person owe to other person or group",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "diplomate",
+"def" : "an offical who reprsent there's country to other nation",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "embroil",
+"def" : "involve deeply in an situation or argument",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "disastrous",
+"def" : "causing great damage",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "notorious",
+"def" : "famous or well konwn",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "sheriff",
+"def" : "(in the US)top-ranking officer in country police force",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "whip",
+"def" : "a strip of leather used for flogging or beating",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "disparity",
+"def" : "great difference",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "sentimont",
+"def" : "an opinion/ feeling or emotion",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "hyperbolic",
+"def" : "enlarged beyond truth",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "Kyu"
+},
+{
+"word" : "smudge",
+"def" : "blur it in a messy way",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "lopside",
+"def" : "habing one side low or small or lighter than the other",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "dreary",
+"def" : "lacking in liveliness or surprise",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "adopted",
+"def" : "acquired as your own by free choise",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "stripe",
+"def" : "a narrow marking of different color or texture",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "court",
+"def" : "room where justice is administered",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "suburb",
+"def" : "residential district located or the outskirts of city",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "seem",
+"def" : "appear",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "droplet",
+"def" : "a tiny drop",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "cigarette",
+"def" : "a small tube of paper that's filled with tobacco",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "inhale",
+"def" : "to breathe",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "emerge",
+"def" : "comeout into view",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "acquire",
+"def" : "to get or come to own something",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "margin",
+"def" : "amount beyond the minimum necessory; edge",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "council",
+"def" : "group of people that gather for the purpose of giving adivice of making decision",
+"used" : false,
+"date" : "2018/01/14",
+"name" : "hoon"
+},
+{
+"word" : "cache",
+"def" : "to store something in hide for future use",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "bead",
+"def" : "marble",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "renounce",
+"def" : "to give up(claim, right, cause)",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "occation",
+"def" : "a particular time of an event",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "abjure",
+"def" : "to renounce(belief, claim, cause)",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "incognito",
+"def" : "having one's true identity concealed",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+
+"word" : "whirl",
+"def" : "to spin rapidly",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "taxonomy",
+"def" : "the branch of science concerned with classification",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "vortex",
+"def" : "mass of whiring fluid or air",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "conceal",
+"def" : "to hide",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "mast",
+"def" : "tall pole to hang sail",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "frock",
+"def" : "a woman's or girl's dress",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "roam",
+"def" : "to move around in wide area",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "swarm",
+"def" : "a group of insects, espacially flying ones",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "enervate",
+"def" : "lacking in energy or vitality",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "Kyu"
+},
+{
+"word" : "belie",
+"def" : "to show to be false",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "diffident",
+"def" : "lacking or marked by a lack of self-confidence",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "tatter",
+"def" : "ragged or scrap of something",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "abstemious",
+"def" : "eatting and drinking in moderation",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "servant",
+"def" : "aperson working in serivice of anther",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "posse",
+"def" : "police force",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "scowl",
+"def" : "make angry face",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "proper",
+"def" : "marked by rightness or suitability",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "sage",
+"def" : "having a lot experience; wise man",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "soggy",
+"def" : "Soft and watery",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "dormant",
+"def" : "inactive, but can be active again",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "ammunition",
+"def" : "ammo,arms;imformation that can be need to attact ",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "insecure",
+"def" : "lacking security or safety",
+"used" : false,
+"date" : "2018/02/17",
+"name" : "hoon"
+},
+{
+"word" : "contempt",
+"def" : "to scorn",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "coercion",
+"def" : "the enforcement",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "decisive",
+"def" : "producing a definite result",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "preach",
+"def" : "to deliver a sermon",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "hypocrisy",
+"def" : "showing the belief, quality of itself that it does not realy have",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "cruelty",
+"def" : "brutality, savageness",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "stout",
+"def" : "somewhat fat or heavy built",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "urine",
+"def" : "pee",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "lament",
+"def" : "to mourn (a person's loss or death",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "granite",
+"def" : "a very hard rock formed by cooling magma with enough pressure",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "sermon",
+"def" : "a talk on a religious or moral subject",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "pity",
+"def" : "feeling of sorrow and compassion by suffering of others",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "crag",
+"def" : "a steep rugged rock of cliff",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "stale",
+"def" : "(of food) no linger gresh and pleasant to eat",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "incur",
+"def" : "become subject to",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "lax",
+"def" : "not strict, severe, of careful",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "vile",
+"def" : "extremely unpleasant",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "dissaud",
+"def" : "persuade not to take a particular course",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "garland",
+"def" : "a ring like decoration made by flower for wear in head, or hang on wall",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "avert",
+"def" : "turn away(one's though)",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "vedetta",
+"def" : "a feud in which members of opposing parties murder each other",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "feud",
+"def" : "the conflict between two parties",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "Kyu"
+},
+{
+"word" : "fatuous",
+"def" : "foolish, vacuously",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "feckless",
+"def" : "careless, irresponsible",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "gauche",
+"def" : "lacking social polish",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "impeach",
+"def" : "to make an accusation against",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "inculcate",
+"def" : "to impress upon the mind of person",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "tectonic",
+"def" : "pertaining to the structure or movement of earth’s crust",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "subjugate",
+"def" : "to bring under control",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "revenue",
+"def" : "money earned by business; income received by the government",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "obtain",
+"def" : "get something that is not easy to come by amount of money.",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "burial",
+"def" : "act of placing a dead person in a grave.",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "fulfill ",
+"def" : "to fill a need or want",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "constant",
+"def" : "unchangeable, careless",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "participate",
+"def" : "be involved in; share in something",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "tilt",
+"def" : "heel over",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "prioritize",
+"def" : "assign a priority to",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "mention",
+"def" : "commend; make reference to",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "frequent",
+"def" : "done often and at regular",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "optimist",
+"def" : "a person who always sees the bright side of any situation",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "procrastination",
+"def" : "deferring an action until a later time",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "integrity",
+"def" : "unity; unbroken completeness or totality with nothing wanting",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "vital",
+"def" : "an essential function in the living body",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "assume",
+"def" : "take to be the case or to be true",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "wiggle",
+"def" : "wag; jiggle",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "tremendous",
+"def" : "extraordinarily large, extent, amount, power, or degree",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "applause",
+"def" : "a demonstration of approval by clapping the hands together",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "conquer",
+"def" : "take possession of by force, as after an invasion",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "prosperity",
+"def" : "having good fortune; an economic state of growth with rising profits",
+"used" : false,
+"date" : "2018/02/24",
+"name" : "hoon"
+},
+{
+"word" : "gouche",
+"def" : "lacking social polish",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "kinetic",
+"def" : "moving; energizing",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "incognito",
+"def" : "having one's true identity concealed",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "fiduciary",
+"def" : " person who holds assets in trust for someone else.",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "pecuniary",
+"def" : "of, realting to or consisting of money",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "soliloquy",
+"def" : "an act of speaking by oneself",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "usurp",
+"def" : " take or by force.",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "winnow",
+"def" : "(of the wind) blow",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "sculpt",
+"def" : "create by shaping stone or wood",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "nourishment",
+"def" : "a source of materials to nourish the body",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "potential",
+"def" : "existing in possibility",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "comfortable",
+"def" : "providing physical ease and relaxation.",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "discipline",
+"def" : "a system of rules of conduct or method of practice",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "forecaster",
+"def" : "someone who makes predictions of the future",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "exhaustion",
+"def" : "extreme fatigue",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "hoon"
+},
+{
+"word" : "polish",
+"def" : "a highly developed state of perfection",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "sought",
+"def" : "past tance of seek",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "leapfrog",
+"def" : "the game in which player bends down and other leap over",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "dissent",
+"def" : "a difference of opinion; disagreement",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "petition",
+"def" : "a formal request of something, espacially signed by many people",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "litigation",
+"def" : "the process of taking legal action",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "reincarnate",
+"def" : "cause (someone) to undergo rebirth in another body",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "evanescent",
+"def" : "quickly fading or disapearing",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "fiduciary",
+"def" : "a person who holds assets in trust for a beneficiary",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "incontrovertible",
+"def" : "not able to be denied of disputed",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "gauche",
+"def" : "lacking of social polish",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "misdemeanor",
+"def" : "a minor wrongdoing",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "hegemony",
+"def" : "the dominance or leadership of one group or society",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "hubris",
+"def" : "excesive pride of self-confident",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+},
+{
+"word" : "impeach",
+"def" : "to charge(a public officer) with an offense or misdemeanor comitted while office",
+"used" : false,
+"date" : "2018/03/4",
+"name" : "Kyu"
+}]
